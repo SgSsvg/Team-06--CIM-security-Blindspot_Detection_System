@@ -1,0 +1,6 @@
+numpy 
+pyqtgraph 
+opencv-python 
+ultralytics 
+pyserial 
+pygame
